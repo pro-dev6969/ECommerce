@@ -1,0 +1,18 @@
+.navbar{
+    height: 5em;
+    background-color: black;
+    text-align: right;
+}
+.links{
+    font-size: 1.6em;
+    text-decoration: none;
+    padding-top: 1em;
+    color: white;
+    margin-right: 1em;
+
+}
+.shopp{
+    padding-right: 1em;
+    color: white;
+    text-decoration: none;
+}
