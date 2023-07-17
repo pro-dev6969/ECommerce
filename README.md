@@ -1,3 +1,9 @@
+# ECommerce Web Application Using React
+
+This site is created using React and Context API.
+This site provides CRUD functionality and also basic knowledge of Routing is applied .   
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
